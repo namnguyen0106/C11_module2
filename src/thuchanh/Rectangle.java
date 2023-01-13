@@ -1,4 +1,4 @@
-package thuchanh;
+package src.thuchanh;
 
 public class Rectangle {
     private double width;

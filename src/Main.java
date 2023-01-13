@@ -1,5 +1,6 @@
-import test.Person;
-import thuchanh.Rectangle;
+package src;
+
+import src.thuchanh.Rectangle;
 
 import java.util.Scanner;
 
